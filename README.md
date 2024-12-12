@@ -1,6 +1,6 @@
 [فارسی](/README_FA.md) 
 
-<p align="center"><a href="#"><img src="images/logo.png" alt="Sinasims" height=300></a></p>
+<p align="center"><a href="#"><img src="images/logo.png" alt="AlirezaSadeghi72" height=300></a></p>
 
 
 # What is TorSina?
@@ -15,18 +15,18 @@
 ## How to Run?
 **Run the following script on your server (Debian or Ubuntu):**
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/sinasims/torsina/refs/heads/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AlirezaSadeghi72/torsina/refs/heads/main/install.sh)
 ```
 
 ## Menu (v1)
 
-<p align="center"><a href="#"><img src="images/torsina.png" alt="Sinasims" width=100%></a></p>
+<p align="center"><a href="#"><img src="images/torsina.png" alt="AlirezaSadeghi72" width=100%></a></p>
 
 ## My Telegram ID
 
 If you have any questions, feel free to ask me.
 
-[sinasimss](https://t.me/sinasimss) 
+[AlirezaSadeghi72s](https://t.me/AlirezaSadeghi72s) 
 
 ## Donation Link
 
