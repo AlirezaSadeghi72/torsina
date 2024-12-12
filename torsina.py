@@ -101,10 +101,9 @@ def show_numbers():
         tor = True
     else:
         tor = False
-    print(" \033[1;32mSinasims tor management:\033[0m\n")
+    print(" \033[1;32mAlirezaSadeghi72 tor management:\033[0m\n")
     print(" \033[0;32mversion: \033[0;33mv1.0\033[0m")
-    print(" \033[0;32mgithub: \033[0;33mgithub.com/sinasims/torsina")
-    print(" \033[0;32mTelegram ID: \033[0;33mt.me/sinasimss")
+    print(" \033[0;32mgithub: \033[0;33mgithub.com/AlirezaSadeghi72/torsina")
     print("\033[0;33m═════════════════════════════════════════════\033[0m")
     if tor:
         print(" \033[0;36mTor: \033[0;32mInstalled")
