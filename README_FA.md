@@ -1,6 +1,6 @@
 [فارسی](/README_FA.md) 
 
-<p align="center"><a href="#"><img src="images/logo.png" alt="Sinasims" height=300></a></p>
+<p align="center"><a href="#"><img src="images/logo.png" alt="AlirezaSadeghi72" height=300></a></p>
 
 
 # تورسینا چیست؟
@@ -15,12 +15,12 @@
 ## مراحل نصب
 کد زیر رو کپی و در سرور خودتون اجرا کنید
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/sinasims/torsina/refs/heads/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/AlirezaSadeghi72/torsina/refs/heads/main/install.sh)
 ```
 
 ## منو برنامه (ورژن ۱)
 
-<p align="center"><a href="#"><img src="images/torsina.png" alt="Sinasims" width=100%></a></p>
+<p align="center"><a href="#"><img src="images/torsina.png" alt="AlirezaSadeghi72" width=100%></a></p>
 
 
 ## نحوه کانفیگ برنامه
@@ -37,7 +37,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/sinasims/torsina/refs/heads/ma
 
 ## آیدی تلگرام
 اگه سوالی داشتید میتونید از طریق تلگرام با من در تماس باشید
-[sinasimss](https://t.me/sinasimss) 
+[AlirezaSadeghi72s](https://t.me/AlirezaSadeghi72s) 
 
 ## حمایت از پروژه
 Donate TRX (TRC-20) to support our project:
