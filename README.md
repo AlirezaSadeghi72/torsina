@@ -26,7 +26,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/AlirezaSadeghi72/torsina/refs/
 
 If you have any questions, feel free to ask me.
 
-[AlirezaSadeghi72s](https://t.me/AlirezaSadeghi72s) 
+[ShadowSockss_Support](https://t.me/ShadowSockss_Support) 
+[ShadowSockssbot](https://t.me/ShadowSockssbot) 
 
 ## Donation Link
 
