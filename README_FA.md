@@ -37,7 +37,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/AlirezaSadeghi72/torsina/refs/
 
 ## آیدی تلگرام
 اگه سوالی داشتید میتونید از طریق تلگرام با من در تماس باشید
-[AlirezaSadeghi72s](https://t.me/AlirezaSadeghi72s) 
+[ShadowSockss_Support](https://t.me/ShadowSockss_Support) 
+[ShadowSockssbot](https://t.me/ShadowSockssbot) 
 
 ## حمایت از پروژه
 Donate TRX (TRC-20) to support our project:
